@@ -1,0 +1,21 @@
+<div id="scroll" style="height:300px; overflow-y:scroll;" align="left">
+<p>CryptoHunt is an interesting event with a twist to the humdrum event of the classic treasure hunt. The clues for the event will be ciphered and the key would be given in the clue itself. Your mission, should you choose to accept it, is to decrypt the clues, level by level to reach the final clue. Even the hints to the algorithms that are to be used would be given in the clue, respectively.
+
+</p>
+<br>
+<h4>General Rules</h4><br>
+<ol type="disc" align="left">
+<li>The duration of the contest may vary from college to college (preferably 50 mins max)</li>
+<li>Internet usage is sternly forbidden*</li>
+<li>Misbehavior or violence of any sort will lead to direct elimination of that group</li>
+<li>Please comply with all the instructions from the organizers</li>
+<li>The coordinators may choose to seize the cell phones of all the participants beforehand</li>
+
+</ol>
+<br>
+<h4>Team Specificcation</h4>
+<ol type="disc" align="left">
+<li>4 members per team are mandatory
+</li>
+</ol>
+</div>

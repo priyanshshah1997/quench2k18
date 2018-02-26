@@ -1,0 +1,27 @@
+<div id="scroll" style="height:300px; overflow-y:scroll;" align="left">
+<h4>Event Description</h4>
+<p>
+As a part of the GTU Zonal TechFest 2018, GIC is carrying out a Patent Clinic to scout for the best innovations across GTU. The main goal of the Patent Clinic activity is to give a platform to the innovations and provide them security for their Intellectual Property, providing financial support for their patent and innovators learning the process of patent filing. It is seen that lack of knowledge is also prevalent for IPR, if the student communities are concerned. In 2016 about 6k+ patents were granted, and in 2017 about a whooping 9k+ as per data by Patseer, and the rise is majorly due to the startup India Programme in 2016. To scale up or get funded, different mode of IP with a venture creates a tremendous impact. 
+</p>
+<br>
+<h4>Zonal Level Patent Clinic:</h4><br>
+<p>
+Each zone is dedicated with a college where the patent clinic will be carried out.  Initially the briefing upon the different modes of Intellectual Property would be carried out. Next the different websites that are helpful for patents would be discussed mainly keeping their features in focus. After completion, the Prior Art Search would be carried out which helps out in identifying the existing solutions and their modes that have been patented already which can be referred, by the participant and upon finally confirming the novelty of the innovation, the process of patent drafting and filling up various relevant forms for the same would be explained.
+</p>
+<h4>Who Can Participate</h4>
+<p>
+Any final year student or even pre-final year enthusiastic student can apply from any field including Engineering, Technology and Pharmacy. 
+ </p>
+<h4>website for refference</h4>
+<p><a href=" https://worldwide.espacenet.com">Escape Net</a></p><br>
+<p><a href="http://www.wipo.int/patentscope/en ">Patents Case by Wipo</a></p><br>
+<p><a href="http://www.ipindia.nic.in">India Patent</a></p><br>
+<h4>perks of the Event:</h4>
+In depth understanding on prior art search <br>
+Financial support for deserving projects/innovations<br>
+Mentorship support<br>
+Incubation support or support for working in the industry specific labs across Gujarat. <br>
+<h4>Conclusion</h4><br>
+<p>Through carrying out Patent clinic at 4 different zones in GTU, the best innovative idea that are patent ready, but due to reasons like lack of resources, funds or knowledge, they would be getting a precious platform, and currently the conversion ratio towards actual Patents(granted)  is very less, so that problem also would be solved through the Patent Clinic, because after getting sensitised upon prior art search and drafting they can make their patent reports strong.. The goal is to identify the top 100 projects/ solutions who would be provides supports in all ways possible, could be financial, or maybe if mentorship is the key requirement. 
+</p>
+</div>

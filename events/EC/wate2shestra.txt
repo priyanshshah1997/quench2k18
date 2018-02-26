@@ -1,0 +1,43 @@
+﻿<div id="scroll" style="height:300px; overflow-y:scroll;" align="left">
+<p>
+Prove the Electronics Laws on proteus and in final round assemble the circuit using the Junk components provided on GPB.
+</p>
+<br>
+<h4>General Rules</h4><br>
+<ol type="disc" align="left">
+1.. Team must carry a Laptop with Proteus-8 installed.<br>
+2.. Basic Knowledge of Proteus is required.<br>
+3. No books are allowed in the competition hall.<br>
+4. If a team is found cheating, they will be immediately eliminated<br>
+
+</ol>
+<h4>Rounds</h4>
+<ol>
+<h4>Rounds:</h4>
+<br><h4>Round 1:  Weeding Out</h4>
+1. Elimination round based on student’s capability to prove the given Electronics
+laws using proteus Software.<br>
+2. The circuit simplicity and efficient output in less time will be the judging
+criteria.<br>
+<h4>Round 2: Best Out of Waste<h4>
+1. Qualifying teams have to make a moving model from the junk provided.<br>
+2. In this round the teams will compete for the race among the models they have
+made.<br>
+3. The first reaching the finish line will qualify for the next round.<br>
+<h4>Round 3: Crowning the legends</h4>
+1. Teams reaching the final round will have to make an electronic circuit from the
+electronic components provided.<br>
+2. The circuit simplicity, innovative ideas, effective outputs in given time will lead to the
+winning position.<br>
+<h4>Round 4: Implement it</h4>
+1. Teams reaching the final round will have to implement the circuit made in round 3 on the moving model made in round 2.
+<br>
+
+</ol>
+<br>
+<h4>Team Specificcation</h4>
+<ol type="disc" align="left">
+<li>No. of participants:solo or Team(max 2)</li>
+<li>No. of Winners:5 Individual/Team</li>
+</ol>
+</div>

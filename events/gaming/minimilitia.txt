@@ -1,0 +1,38 @@
+<div id="scroll" style="height:300px; overflow-y:scroll;" align="left">
+<p>
+Experience intense multiplayer combat with up to five players online or locally in multiplayer mode.
+Hear the whiz of bullets flying past your face as you tumble for over. Outsmart the enemy with a
+well-placed grenade and watch them explode into bloody confetti.
+Team death match 4x4(team play, 4 members per team)
+The tournament organizers reserve the right to cancel or modify the tournament rules if technical
+failures or any other factor beyond reasonable control impairs the integrity of the tournament.
+</p>
+<br>
+<h4>General Rules</h4><br>
+<ol type="disc" align="left">
+1. Use of cheat code is prohibited and will lead its team to disqualification.<br>
+2. Breaking game rules is not allowed.<br>
+3. Team is requested to follow coordinators and faculty mentor without argument.<br>
+4. If one of the players forfeits the match, the team will be disqualified and the
+other team will be declared winner (IRRESPECTIVE OF THE SCORE).<br>
+5. Each team can choose a variety of weapons depending upon the map.<br>
+6. Any competitor or team attempting to use any exploit in a map shall be
+immediately disqualified and may be removed from the event.<br>
+7. Winners will be rewarded with attractive prizes.<br>
+8. Participation certificate will be given to every participant.<br>
+9. Participation fee is Rs. 50/Member.<br>
+ 
+</ol>
+<br>
+<h4>Rounds</h4>
+<ol align="left">
+
+<br>No. of rounds will be decided on the basis of number of team registration to event. 
+</ol>
+<h4>Team Specificcation</h4>
+<ol type="disc" align="left">
+<li>Team Size:Team(4 Size)
+</li>
+<li>No of Winners : Team </li>
+</ol>
+</div>

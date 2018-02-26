@@ -1,0 +1,21 @@
+﻿<div id="scroll" style="height:300px; overflow-y:scroll;" align="left">
+<p>Relay coding would be a team event and will take place in 5 rounds. The 1st round would be a quiz-solving round, in which the team members will brainstorm to crack the answers of the questions and obtain a part of the password. In the next round, there will be an off-screen coding challenge and only one member would be allowed to program. After a specific time, the next member of the same team would take over the code and start working on it with the screen on, but without compiling. In the 4th round the third member would have to debug the code and try to compile it successfully. The last round will involve the usage of the quiz answer and the output of the code altogether, to decode the correct login password for that system.
+</p>
+<br>
+<h4>General Rules</h4><br>
+<ol type="disc" align="left">
+<li>The duration of the contest is 35 minutes (Round 1: 5 mins, round 2: 10 mins, round 3: 10
+mins, round 4: 5 mins, round 5: 5 mins)</li>
+<li>4 members are mandatory and so is each one’s presence at every level</li>
+<li>The task has to be performed within the criteria that is specified</li>
+<li>Misbehavior or violence of any sort will lead to direct elimination of that group
+</li><li>Please comply with all the instructions from the organizers</li>
+
+</ol>
+<br>
+<h4>Team Specificcation</h4>
+<ol type="disc" align="left">
+<li>4 members per team are mandatory
+</li>
+</ol>
+</div>

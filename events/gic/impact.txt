@@ -1,0 +1,42 @@
+<div id="scroll" style="height:300px; overflow-y:scroll;" align="left">
+<h4>Event Description</h4>
+<p>
+This event is to know why, how and what industries/startups in India replicate foreign model, add Indian touch and strategies to it and flourishes. Along with that, event focuses on role reversal of Indian practice- coming up with solutions and strategies which can touch billions of people, after-all 1 in every 6 of the world’s population is Indian! 
+</p>
+<br>
+<p>
+<h4>Rules And regulations:</h4><br>
+<p>
+The product/Service must be unique (or solves the problem uniquely)and should have a scalable market.<br>
+Repetition of the product or idea should not be entertained.<br>
+One team/participant can present more than one products.<br>
+The project submitting here must not be presented anywhere till Techfest result declared.<br>
+Best products will be rewarded by financial assistance (or Seed Fund up to Rs. 2 Lakh along with IP support up to Rs. 25K)<br>
+ Best Projects/Products will be incubated at GTU Incubator (Ahmedabad/Rajkot/Surat) for further support like Co-working Space, Mentoring support, R&D Support, Legal documentation Support.<br>
+</p>
+<h4>Level Description</h4>
+<p><br><br>
+<h4>Round 1:</h4><br><br><p> Participants are supposed to prepare 5 examples in form of presentation containing 5 problems faced and solved by innovators of foreign countries which India has adopted, replicated in India like Uber inspired Ola, Amazon inspired flipkart, Airbnb inspired oyoetc<br>
+<br>Content: foreign concept, which Indian startup has replicated it, their implementation strategy, what Indian touch they have given according to Indian context, their pre-growth obstacles/problems and how they have overcome it. <br>
+<br>They are open to have any source to lookout startups though this can help/can take as reference https://tracxn.com/, https://angel.co/, https://echai.in/,https://yourstory.com/, http://www.nasscom.in/, etc.<br>
+ </p><br><br>
+<h4>Round 2</h4><br>
+<p>Considering the fact that 1 from every 6 in the world is Indian, we are in a country wherein we can understand and experience the difficulties/inconvenience/problems faced by 1/6th of the world. Participants are supposed to brainstorm and come up with 5 problems (not of broad governance issues or any complex societal issue which is out of scope for any individual to solve it in limited resources) which need attention, and which can impact billions of people. </p>
+<h4>Round 3</h4><br><br>
+<p>
+Participants will be selecting 1 problem from their list which they wish to solve and will present 3 different ways to approach and solve it. After all, there can never be one way to solve any problem.<br>
+</p>
+<p>
+Presentation can be in the form of PowerPoint presentation, photos, videos, document, roleplay, or anything interesting they wish to.<br>
+</p>
+<h4>perks of the Event:</h4>
+<p>
+In depth understanding on prior art search <br>
+Financial support for deserving projects/innovations<br>
+Mentorship support<br>
+Incubation support or support for working in the industry specific labs across Gujarat. <br></p>
+<h4>Conclusion</h4><br>
+<p>Through carrying out Patent clinic at 4 different zones in GTU, the best innovative idea that are patent ready, but due to reasons like lack of resources, funds or knowledge, they would be getting a precious platform, and currently the conversion ratio towards actual Patents(granted)  is very less, so that problem also would be solved through the Patent Clinic, because after getting sensitised upon prior art search and drafting they can make their patent reports strong.. The goal is to identify the top 100 projects/ solutions who would be provides supports in all ways possible, could be financial, or maybe if mentorship is the key requirement. 
+</p>
+</p>
+</div>

@@ -1,0 +1,46 @@
+<div id="scroll" style="height:300px; overflow-y:scroll;" align="left">
+<p>
+Purchase the components from the points earned at the previous level and put your efforts to design an innovative product which is ready for the marketing.
+
+</p>
+<br>
+<h4>General Rules</h4><br>
+<ol type="disc" align="left">
+1. A team of 3 members can participate (all from same college).<br>
+2. Use of electronic gadgets is prohibited.<br>
+3. All rounds are time bound. Earlier you finish properly, more points
+you earn.<br>
+
+</ol>
+<h4>Rounds</h4>
+<ol>
+<h4>Rounds:</h4>
+<br><h4>Round 1:  What's in your Wallet.</h4>
+Duration:  Maximum 3 hours.<br>
+1. On the basis of clues, teams will hunt and earn points.<br>
+2. Earlier you hunt, more points you earn.<br>
+3. Tougher the clue, more you earn.<br>
+4. Points earned will be useful to purchase components in next level.<br>
+5. Top 15 teams would qualify for next round.<br>
+
+<h4>Round 2: Get you Own Box.<h4>
+Duration:  Maximum 3 hours.<br>
+1. On the basis of points earned in round 1, teams can purchase components.<br>
+2. Design a working circuit from the components.<br>
+3. Best 8 innovative designs go to the next round.<br>
+<h4>Round 2: Jo Bikega, Wo Chalega<h4>
+Duration:  Maximum 3 hours.<br>
+1. Qualifying teams will now sell their circuit within college using them marketing skills.<br>
+2. Usefulness of the circuit, innovation, marketing skills and team work will be
+the judging criteria.<br>
+3. Best two teams will be chosen.<br>
+
+</ol>
+<br>
+<h4>Team Specificcation</h4>
+<ol type="disc" align="left">
+<li>Solo or Team (max 2 participants)</li>
+<li>Winners: 5 Individual/teams
+</li>	
+</ol>
+</div>

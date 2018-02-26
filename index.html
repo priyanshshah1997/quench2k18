@@ -1,0 +1,577 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+	<meta charset="utf-8">
+
+	<title>Quench 2k18</title>
+
+	<!-- Behavioral Meta Data -->
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+
+	<!-- Core Meta Data -->
+	<meta name="author" content="Greg Kellogg">
+	<meta name="description" content="Simple, lightweight Parallax Engine that reacts to the orientation of a smart device">
+	<meta name="keywords" content="parallax,javascript,jquery,zepto,plugin">
+
+	<!-- Open Graph Meta Data -->
+	<meta property="og:description" content="Simple, lightweight Parallax Engine that reacts to the orientation of a smart device">
+	<meta property="og:image" content="http://wagerfield.github.io/parallax/assets/images/thumbnail.png">
+	<meta property="og:site_name" content="parallax.js">
+	<meta property="og:title" content="parallax.js">
+
+	<!-- Styles -->
+	<link rel="stylesheet" type="text/css" href="assets/styles/css/styles.css"/>
+
+<script>
+function loadDoc(url, cFunction) {
+  var xhttp;
+  xhttp=new XMLHttpRequest();
+  xhttp.onreadystatechange = function() {
+    if (this.readyState == 4 && this.status == 200) {
+      cFunction(this);
+    }
+  };
+  xhttp.open("GET", url, true);
+  xhttp.send();
+}
+function myFunction(xhttp) {
+  document.getElementById("info").innerHTML =
+  xhttp.responseText;
+}
+</script>
+
+</head>
+<body>
+
+
+
+	<div id="container" class="wrapper">
+		<ul id="scene" class="scene unselectable"
+			data-friction-x="0.1"
+			data-friction-y="0.1"
+			data-scalar-x="25"
+			data-scalar-y="15">
+			<li class="layer" data-depth="0.00"></li>
+			<li class="layer" data-depth="0.0"><div class="background1"></div></li>
+			<li class="layer" data-depth="0.10"><div class="light orange b phase-4"></div></li>
+			<li class="layer" data-depth="0.10"><div class="light purple c phase-5"></div></li>
+			<li class="layer" data-depth="0.10"><div class="light orange d phase-3"></div></li>
+			
+			<li class="layer" data-depth="0.15">
+				<ul class="rope depth-10">
+					<li><img src="assets/images/rope.png" alt="Rope"></li>
+					<li class="hanger position-2">
+						<div class="board cloud-2 swing-1"></div>
+					</li>
+					<li class="hanger position-4">
+						<div class="board cloud-1 swing-3"></div>
+					</li>
+					<li class="hanger position-8">
+						<div class="board birds swing-5"></div>
+					</li>
+				</ul>
+			</li>
+			<li class="layer" data-depth="0.20"></li>
+			<li class="layer" data-depth="0.30">
+				<ul class="rope depth-30">
+					<li><img src="assets/images/rope.png" alt="Rope"></li>
+					<li class="hanger position-1">
+						<div class="board cloud-1 swing-3"></div>
+					</li>
+					
+				</ul>
+			</li>
+			
+			<li class="layer" data-depth="0.40"><div class="wave plain depth-40"></div></li>
+			<li class="layer" data-depth="0.50"><div class="wave paint depth-50"></div></li>
+			<li class="layer" data-depth="0.60"><div class="lighthouse depth-60"></div></li>
+			<li class="layer" data-depth="0.60">
+				<ul class="rope depth-60">
+					<li><img src="assets/images/rope.png" alt="Rope"></li>
+					<li class="hanger position-3">
+						<div class="board birds swing-5"></div>
+					</li>
+					<li class="hanger position-7">
+						<div class="board cloud-2 swing-2"></div>
+					</li>
+					<li class="hanger position-9">
+						<div class="board cloud-3 swing-4"></div>
+					</li>
+				</ul>
+			</li>
+			<li class="layer" data-depth="0.60"><div class="wave plain depth-60"></div></li>
+			<li class="layer" data-depth="0.80"><div class="wave plain depth-80"></div></li>
+			<li class="layer" data-depth="1.00"><div class="wave paint depth-100"></div></li>
+			<li class="layer" data-depth="0"><div class="background12" style=""></div></li>
+
+
+			</ul>
+			
+			<button class="toggle b2" onclick="showevent()">Events</button>
+			
+			<button class="toggle b4" onclick="showteam()">Team</button>
+			<button class="toggle b5" onclick="showabout()">About us</button>
+			<!--Team-->
+			<section id="team" class="wrapper about accelerate hide">
+			<div class="cell accelerate">
+				<div class="cables center accelerate">
+					<div class="panel accelerate">
+						<header>
+							<h1>Te<em>am</em></h1><br>
+							<h1>Departments</h1>
+						</header>
+						<ul class="links">
+							<li><a href="team/ceit.html">Computer-IT</a></li>
+							<li><a href="team/chem.html">Chemical</a></li>
+							<li><a href="team/electrical.html">Electrical</a></li>
+							<li><a href="team/quizobuster.html">QUIZ-O-BUSTER</a></li>
+							<li><a href="team/aawaits.html">Adventure Awaits</a></li>
+							<li><a href="team/cyber.html">Cyber Shot</a></li>
+							<li><a href="team/gaming.html">Gaming</a></li>
+							<li><a href="team/team.php">Main Cordinator</a></li>
+						</ul><ul class="links">
+							
+							<li><a onclick="hideteam()">Close</a></li>
+
+						</ul>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!--Events-->
+		<section id="events" class="wrapper about accelerate hide">
+			<div class="cell accelerate">
+				<div class="cables center accelerate">
+					<div class="panel accelerate">
+						<header>
+							<h1>Even<em>ts</em></h1>
+						<h1>Departments</h1>
+						</header>
+						<ul class="links">
+							<li><a onclick="nra($('#events'),$('#ceevents'))">Computer-IT</a></li>
+							<li><a onclick="nra($('#events'),$('#itevents'))">Chemical</a></li>
+							<li><a onclick="nra($('#events'),$('#ecevents'))">Electrical</a></li>
+							<li><a onclick="nra($('#events'),$('#icevents'))">QUIZ-O-BUSTER</a></li>
+							<li><a onclick="nra($('#events'),$('#metevents'))">Adventure Awaits</a></li>
+							<li><a onclick="nra($('#events'),$('#bmevents'))">Cyber Shot</a></li>
+							<li><a onclick="nra($('#events'),$('#gaevents'))">Gaming</a></li>
+							<li><a onclick="nra($('#events'),$('#gicevents'))">GIC</a></li>
+						</ul>
+						
+						<ul class="links">
+							
+							<li><a target="_blank" onclick="hideevent()">Close</a></li>
+
+						</ul>
+					</div>
+				</div>
+			</div>
+		</section>
+			<!--About us-->
+		<section id="aboutus" class="wrapper about accelerate hide">
+			<div class="cell accelerate">
+				<div class="cables center accelerate">
+					<div class="panel accelerate">
+						<header>
+							<h1>About &nbsp<em>us</em></h1>
+						</header>
+						<p>Government Engineering College has been conducting “Quench” an annual technical and cultural event for aspirants from various engineering colleges with a very high competitive spirit. This year with the same determination and enthusiasm We are ready to host QUENCH 2K18 and to set up new milestones. It is a complete package of technical knowledge and entertainment so provides lifetime memories and new ideas not only to participants but also to visitors and viewers….!! Be a part of QUENCh 2K18..!!</p><br><br>
+						<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3665.5760734217306!2d72.65153011431826!3d23.25850871330677!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x395c2c78f8fc8cf9%3A0xfb1e6190bb175e32!2sGoverment+Engineering+College!5e0!3m2!1sen!2sin!4v1518679462766" width="300" height="200" frameborder="0" style="border:0" allowfullscreen></iframe>
+						<ul class="links">
+							
+							<li><a onclick="hideabout()">Close</a></li>
+
+						</ul>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!--CE-Events-->
+		<section id="ceevents" class="wrapper about accelerate hide">
+			<div class="cell accelerate">
+				<div class="cables center accelerate">
+					<div class="panel accelerate">
+						<header>
+							<h1>Even<em>ts</em></h1>
+						<h2>Computer Engineering</h2>
+						</header>
+						<ul class="links">
+							<li><a onclick="nra1($('#ceevents'),$('#nevent12'),neventid1234[0],'events/computer/codeless.txt')">Code-less</a></li>
+							<li><a onclick="nra1($('#ceevents'),$('#nevent12'),neventid1234[1],'events/computer/cryptohunt.txt')">Cryptohunt</a></li>
+							<li><a onclick="nra1($('#ceevents'),$('#nevent12'),neventid1234[2],'events/computer/photoshopfaceoff.txt')">Photoshop Faceoff</a></li>
+							<li><a onclick="nra1($('#ceevents'),$('#nevent12'),neventid1234[3],'events/computer/reinvent.txt')">Reinvent</a></li>
+							<li><a onclick="nra1($('#ceevents'),$('#nevent12'),neventid1234[4],'events/computer/relaycoding.txt')">Relaycoding</a></li>
+							<li><a onclick="nra1($('#ceevents'),$('#nevent12'),neventid1234[5],'events/computer/webweaver.txt')">Webweaver</a></li>
+						</ul>
+						
+						<ul class="links">
+							
+							<li><a onclick="nra($('#ceevents'),$('#events'))">Close</a></li>
+							<li><a onclick="nra($('#ceevents'))">Close&nbspAll</a></li>
+
+						</ul>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!--IT-Events-->
+		<section id="itevents" class="wrapper about accelerate hide">
+			<div class="cell accelerate">
+				<div class="cables center accelerate">
+					<div class="panel accelerate">
+						<header>
+							<h1>Even<em>ts</em></h1>
+						<h2>Chemical Engineering</h2>
+						</header>
+						<ul class="links">
+							<li><a onclick="nra1($('#itevents'),$('#nevent12'),n_it_eventid[0],'events/chemical/chemystery.txt')">ChemMystery</a></li>
+							<li><a onclick="nra1($('#itevents'),$('#nevent12'),n_it_eventid[1],'events/chemical/chemedrive.txt')">Chem-E-Drive</a></li>
+						</ul>
+						
+						<ul class="links">
+							
+							<li><a onclick="nra1($('#itevents'),$('#events'))">Close</a></li>
+							<li><a onclick="nra($('#itevents'))">Close&nbspAll</a></li>
+
+						</ul>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!--EC-Events-->
+		<section id="ecevents" class="wrapper about accelerate hide">
+			<div class="cell accelerate">
+				<div class="cables center accelerate">
+					<div class="panel accelerate">
+						<header>
+							<h1>Even<em>ts</em></h1>
+						<h2>Electrical Engineering</h2>
+						</header>
+						<ul class="links">
+							<li><a onclick="nra1($('#ecevents'),$('#nevent12'),n_ec_eventid[0],'events/EC/thinkbig.txt')">Think Big</a></li>
+							<li><a onclick="nra1($('#ecevents'),$('#nevent12'),n_ec_eventid[1],'events/EC/gateotarka.txt')">Gate-O-Tarka</a></li>
+							<li><a onclick="nra1($('#ecevents'),$('#nevent12'),n_ec_eventid[2],'events/EC/wate2shestra.txt')">Waste-2-Shrestha</a></li>
+							<li><a onclick="nra1($('#ecevents'),$('#nevent12'),n_ec_eventid[3],'events/EC/circuitchakara.txt')">Circuit Chakravyuh</a></li>
+							<li><a onclick="nra1($('#ecevents'),$('#nevent12'),n_ec_eventid[4],'events/EC/solar.txt')">Use Solar-Save Nature</a></li>
+							<li><a onclick="nra1($('#ecevents'),$('#nevent12'),n_ec_eventid[5],'events/EC/decodeencode.txt')">Decode/Encode/Recode</a></li>
+						</ul>
+						
+						<ul class="links">
+							
+							<li><a onclick="nra1($('#ecevents'),$('#events'))">Close</a></li>
+							<li><a onclick="nra($('#ecevents'))">Close&nbspAll</a></li>
+
+						</ul>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!--IC-Events-->
+		<section id="icevents" class="wrapper about accelerate hide">
+			<div class="cell accelerate">
+				<div class="cables center accelerate">
+					<div class="panel accelerate">
+						<header>
+							<h1>Even<em>ts</em></h1>
+						<h2>QUIZ-O-BUSTER</h2>
+						</header>
+						<ul class="links">							
+							<li><a onclick="nra1($('#icevents'),$('#nevent12'),n_ic_eventid[0],'events/quizobuster/knowurfriends.txt')">Know Ur Friends</a></li>
+							<li><a onclick="nra1($('#icevents'),$('#nevent12'),n_ic_eventid[1],'events/quizobuster/triviachannels.txt')">Trivia Channels</a></li>
+							<li><a onclick="nra1($('#icevents'),$('#nevent12'),n_ic_eventid[2],'events/quizobuster/bionickname.txt')">Bionick Name</a></li>
+							<li><a onclick="nra1($('#icevents'),$('#nevent12'),n_ic_eventid[3],'events/quizobuster/twistemaths.txt')">Twist E Maths</a></li>
+						</ul>
+						
+						<ul class="links">
+							
+							<li><a onclick="nra1($('#icevents'),$('#events'))">Close</a></li>
+							<li><a onclick="nra($('#icevents'))">Close&nbspAll</a></li>
+
+
+						</ul>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!--MET-Events-->
+		<section id="metevents" class="wrapper about accelerate hide">
+			<div class="cell accelerate">
+				<div class="cables center accelerate">
+					<div class="panel accelerate">
+						<header>
+							<h1>Even<em>ts</em></h1>
+						<h2>Adventure Awaits</h2>
+						</header>
+						<ul class="links">							
+							<li><a onclick="nra1($('#metevents'),$('#nevent12'),n_met_eventid[0],'events/adwentureawaits/jackpot.txt')">The Real Jackpot</a></li>
+							<li><a onclick="nra1($('#metevents'),$('#nevent12'),n_met_eventid[1],'events/adwentureawaits/metaltrade.txt')">Metal Trade</a></li>
+						</ul>
+						
+						<ul class="links">
+							
+							<li><a onclick="nra1($('#metevents'),$('#events'))">Close</a></li>
+							<li><a onclick="nra($('#metevents'))">Close&nbspAll</a></li>
+
+						</ul>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!--cybershot-Events-->
+		<section id="bmevents" class="wrapper about accelerate hide">
+			<div class="cell accelerate">
+				<div class="cables center accelerate">
+					<div class="panel accelerate">
+						<header>
+							<h1>Even<em>ts</em></h1>
+						<h2>Cyber Shot</h2>
+						</header>
+						<ul class="links">
+							<li><a onclick="nra1($('#bmevents'),$('#nevent12'),n_bm_eventid[0],'events/cybershot/snapoutloud.txt')">Snap Out LOud</a></li>
+							<li><a onclick="nra1($('#bmevents'),$('#nevent12'),n_bm_eventid[1],'events/cybershot/Mad-ads.txt')">Mad-Ads</a></li>
+						</ul>
+						
+						<ul class="links">
+							
+							<li><a onclick="nra1($('#bmevents'),$('#events'))">Close</a></li>
+							<li><a onclick="nra($('#bmevents'))">Close&nbspAll</a></li>
+
+						</ul>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!--gaming-Events-->
+		<section id="gaevents" class="wrapper about accelerate hide">
+			<div class="cell accelerate">
+				<div class="cables center accelerate">
+					<div class="panel accelerate">
+						<header>
+							<h1>Even<em>ts</em></h1>
+						<h2>Gaming</h2>
+						</header>
+						<ul class="links">
+							<li><a onclick="nra1($('#gaevents'),$('#nevent12'),n_gam_eventid[0],'events/gaming/csgo.txt')">Counter Strike (Lan)</a></li>
+							<li><a onclick="nra1($('#gaevents'),$('#nevent12'),n_gam_eventid[1],'events/gaming/nfs.txt')">NFS.MW (Lan)</a></li>
+							<li><a onclick="nra1($('#gaevents'),$('#nevent12'),n_gam_eventid[2],'events/gaming/minimilitia.txt')">Mini Militia</a></li>
+						</ul>
+						
+						<ul class="links">
+							
+							<li><a onclick="nra1($('#gaevents'),$('#events'))">Close</a></li>
+							<li><a onclick="nra($('#gaevents'))">Close&nbspAll</a></li>
+
+						</ul>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!--gic-Events-->
+		<section id="gicevents" class="wrapper about accelerate hide">
+			<div class="cell accelerate">
+				<div class="cables center accelerate">
+					<div class="panel accelerate">
+						<header>
+							<h1>Even<em>ts</em></h1>
+						<h2>GIC</h2>
+						</header>
+						<ul class="links">
+							<li><a onclick="nra1($('#gicevents'),$('#nevent12'),n_gic_eventid[0],'events/gic/product.txt')">Product Realization</a></li>
+							<li><a onclick="nra1($('#gicevents'),$('#nevent12'),n_gic_eventid[1],'events/gic/impact.txt')">India Impact</a></li>
+						</ul>
+						
+						<ul class="links">
+							
+							<li><a onclick="nra1($('#gicevents'),$('#events'))">Close</a></li>
+							<li><a onclick="nra($('#gicevents'))">Close&nbspAll</a></li>
+
+						</ul>
+					</div>
+				</div>
+			</div>
+		</section>
+		
+		<!--common event-->
+		<section id="nevent12" class="wrapper about accelerate hide">
+			<div class="cell accelerate">
+				<div class="cables center accelerate">
+					<div class="panel accelerate">
+						<header>
+							<h1 id="neventp12"></h1>
+						</header>
+						<div id="info">
+							
+						</div>
+						<ul class="links">
+							
+							
+							<li><a href="register.php" id="reg">Register</a></li>
+							<li><a onclick="goback($('#nevent12'))">back</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</section>
+	<!-- Scripts -->
+
+</div>
+</body>
+<script src="assets/scripts/js/libraries.min.js"></script>
+<script src="deploy/jquery.parallax.js"></script>
+
+
+<script>
+
+// jQuery Selections
+var context=null;
+		var $html = $('html'),
+		$container = $('#container'),
+		$prompt = $('#prompt'),
+		$toggle = $('#login'),
+		$toggle1 = $('#login1'),
+		$about = $('#loginmod'),
+		$scene = $('#scene'),
+		$team = $('#team'),
+		$events=$('#events'),
+		$aboutus1=$('#aboutus'),
+		$register=$('#register'),
+		$ceevents=$('#ceevents'),
+		$org,$new,$olddialog;
+		var neventid1234=["Code-less","Cryptohunt","Photoshop Faceoff","Reinvent","Relaycoding","Webweaver"];
+		var n_it_eventid=["ChemMystery","Chem-E-Drive"];
+		var n_ec_eventid=["Thnk Big","Gate-O-Tarka","Waste-2-Shrestha","Circuit Chakravyuh","Use Solar-Save Nature","Code/Recode/Decode"];
+		var n_ic_eventid=["Know Your Friends","Trivia Channels","Bionick Name","Twist-E-Maths"];
+		var n_met_eventid=["The Real Jackpot","Metal Trade"];
+		var n_bm_eventid=["Snap Out Loud","Mad-Ads"];
+		var n_gam_eventid=["Counter Strike","NFS - Most Wanted","Mini Militia"];
+		var n_gic_eventid=["Product Realization","India Impact"];
+
+
+
+// Add touch functionality.
+if (Hammer.HAS_TOUCHEVENTS) {
+	$container.hammer({drag_lock_to_axis: true});
+	_.tap($html, 'a,button,[data-tap]');
+}
+
+// Add touch or mouse class to html element.
+$html.addClass(Hammer.HAS_TOUCHEVENTS ? 'touch' : 'mouse');
+
+function hidelogin()
+{
+$about.addClass('hide');
+	
+}
+function showlogin()
+{
+$about.removeClass('hide');
+	
+}
+
+function hideteam()
+{
+$team.addClass('hide');
+	
+}
+function showteam()
+{
+$team.removeClass('hide');
+	
+}
+
+function hideevent()
+{
+$events.addClass('hide');
+	
+}
+function showevent()
+{
+$events.removeClass('hide');
+	
+}
+
+function hideabout()
+{
+$aboutus1.addClass('hide');
+	
+}
+function showabout()
+{
+$aboutus1.removeClass('hide');
+	
+}
+function hideregister()
+{
+$register.addClass('hide');
+	
+}
+function showregister()
+{
+$register.removeClass('hide');
+	
+}
+
+function hideceevents()
+{
+
+$ceevents.addClass('hide');
+$events.removeClass('hide');
+	
+}
+function showceevents()
+{
+$ceevents.removeClass('hide');
+$events.addClass('hide');
+}
+
+function nra($old,$new) 
+{
+	$old.addClass('hide');
+	$new.removeClass('hide');
+}
+function nra1($old,$new,$id1,url) 
+{
+	document.getElementById("neventp12").innerHTML = $id1;
+	$old.addClass('hide');
+	$new.removeClass('hide');
+	$olddialog = $old;
+	loadDoc(url,myFunction);
+	if(jQuery.inArray($id1, n_ec_eventid)!=-1 || jQuery.inArray($id1, n_it_eventid)!=-1 || jQuery.inArray($id1, neventid1234)!=-1)
+	{
+		$('#reg').attr("href", "http://techfest.gtu.ac.in/Studentregstration.aspx?u=1");
+		$('#reg').attr("target", "_blank");
+		//console.log("techfest.gtu.ac.in");
+	}
+	else if(jQuery.inArray($id1, n_gic_eventid)!=-1)
+	{
+		$('#reg').attr("href", "https://docs.google.com/forms/d/e/1FAIpQLSeXzGlMLGZiVctzM01g7JhIstd-UGTeCKMryAaLA8DixewAGg/viewform");
+		$('#reg').attr("target", "_blank")
+	}
+	else
+	{
+		console.log(jQuery.inArray($id1, n_ec_eventid));
+		//console.log("register.php");
+		$('#reg').attr("href", "register.php");
+	}
+}
+function goback($old)
+{
+	$old.addClass('hide');
+	$olddialog.removeClass('hide');
+
+}
+// Pretty simple huh?
+$scene.parallax();
+
+
+
+
+</script>
+
+<!--responsive button-->
+
+
+</html>

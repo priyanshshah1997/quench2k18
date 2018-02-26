@@ -1,0 +1,34 @@
+<div id="scroll" style="height:300px; overflow-y:scroll;" align="left">
+<p>
+Are you a fan of Hollywood Movie/Story Series..? Then show it out at Trivia Channels where
+you will be questioned about your favourite series.
+</p>
+<br>
+<h4>General Rules</h4><br>
+<ol type="disc" align="left">
+1. Use of Internet is prohibited and will lead its team to disqualification.<br>
+2. Breaking game rules is not allowed.<br>
+3. Team is requested to follow coordinators and faculty mentor without argument.<br>
+4. Winners will be rewarded with attractive prizes.<br>
+5. Participation certificate will be given to every participant.<br>
+6. Participation fee is Rs. 50/Member.<br>
+ 
+</ol>
+<br>
+<h4>Rounds</h4>
+<ol align="left">
+It will consist of 3 rounds.<br>
+1. First round will be quiz of very famous Story Series such as Harry Potter and 10 teams will
+qualify for next round.<br>
+2. This round will be little bit tougher as it will contain the quiz with difficult question which a
+true fan of Hollywood series can answer. 5 teams will qualify to final round.
+<br>3. In the final round the whole team has to perform a part of favourite series and best performing
+team will win.<br>
+</ol>
+<h4>Team Specificcation</h4>
+<ol type="disc" align="left">
+<li>Team Size:Team(4-6 participants)
+</li>
+<li>No of Winners : Team </li>
+</ol>
+</div>

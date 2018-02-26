@@ -1,0 +1,32 @@
+<div id="scroll" style="height:300px; overflow-y:scroll;" align="left">
+<p>
+This is basically a Car racing event in which chemicals are used to run the car. It is a group event and maximum 3 members can be allowed in one group.
+</p>
+<br>
+<h4>Rounds</h4><br>
+<ol type="disc" align="left">
+<li>This event comprises of three rounds:</li>
+<li>First Round: In this round every group will run their car on the given track and distance travelled by the car would be calculated. The cars which travels the maximum distance would be qualified for the next round.</li>
+<li>Second Round: In this round some obstacles would be kept on the path. The car has to overcome those obstacles in this round. The cars which travels the maximum distance on this path would be qualified for the next round.</li>
+<li>Third Round: In this round the participant need to claim the distance that their car can travel with obstacles on its way, and that must be travelled by their car. The winner will be selected on the basis of design of their car and difference between their claim and actual distance travelled by car.</li>
+</ol>
+<br>
+<h4>Rules and regulations</h4>
+<h4>Team Specificcation</h4>
+<ol align="left">
+<li>There will be 3 rounds for this competition.</li
+<li>2 trials will be given to all the participants.</li> 
+<li>In a situation of draw, the car which cover more distance in less time will be winner.</li>
+<li>The weight of car should not exceed 1kg.</li>
+<li>Dimensions of car should be 50*40*30*cm.</li>
+<li>No explosive, hazardous or harmful chemicals can be used for the chemical reaction.</li>
+<li>Complete measures of safety must be taken care of.</li>
+<li>Pushing to start the vehicle or using a mechanical starting device is not allowed.</li>
+</ol>
+<ol type="disc" align="left">
+<li>Solo/Team (Max 2 participants)
+
+</li>
+<li>No of Winners : 5 Individuals/Team </li>
+</ol>
+</div>

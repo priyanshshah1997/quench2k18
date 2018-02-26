@@ -1,0 +1,35 @@
+<div id="scroll" style="height:300px; overflow-y:scroll;" align="left">
+<p>
+Every group will be given circuits based on basic logical gates and the participants will be asked to solve it by glowing an LED i.e correct binary number will glow an LED
+</p>
+<br>
+<h4>General Rules</h4><br>
+<ol type="disc" align="left">
+1. Basic knowledge of logical gates is required.<br>
+2. No books are allowed in competition hall.<br>
+3. Answers are to be written only once at a time, no correction.<br>
+4. Marking of answers should be with pen.<br>
+
+</ol>
+<h4>Rounds</h4>
+<ol>
+<h4>Rounds:</h4>
+<br><h4>Round 1:  Tarka-Vitarka</h4>
+1. Participants will have to write the answers on a sheet of paper.<br>
+2. Elimination will be based on max correct answers found.<br>
+<h4>Round 2: Circuit- Scramble<h4>
+1. Qualifying teams will be given faulty circuit printed on paper and they have to solve it in
+least time.<br>
+2. In this round the teams will compete with other groups.<br>
+3. Least time taken will be chosen first.<br>
+<h4>Round 3: Circuit-Nirmaan</h4>
+1. Teams reaching the final round will have make an electronic circuit from the gates ICs provided.<br>
+2. The options of the possible circuits of the given ICs will be provided.<br>
+
+</ol>
+<br>
+<h4>Team Specificcation</h4>
+<ol type="disc" align="left">
+<li>Team Size:4</li>
+</ol>
+</div>

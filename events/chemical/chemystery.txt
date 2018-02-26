@@ -1,0 +1,25 @@
+<div id="scroll" style="height:300px; overflow-y:scroll;" align="left">
+<p>
+This event consists of three rounds which basically tests the technical knowledge of the participants. Maximum two participants are included in a team.
+</p>
+<br>
+<h4>General Rules</h4><br>
+<ol type="disc" align="left">
+<li>This event comprises of three rounds: -
+<li>Quiz competition: A technical quiz (screening round). Each question of 1 mark. Teams with maximum marks will pass to next round.</li>
+
+<li>Flow sheet completion: Each group of participants who qualified in the previous round would be given an incomplete flow sheet and the participant has to complete the missing part of the flow sheet to qualify for the final round in the given time.</li>
+
+<li>Buzzer Round: In these round participants would be teamed in a group of two and 15 questions would be asked and team with the most points at the end of the round is the winner.</li>
+
+<li>NOTE: In case of tie, a master question will be asked by event coordinator Decision of core committee will be final. </li>
+</ol>
+<br>
+<h4>Team Specificcation</h4>
+<ol type="disc" align="left">
+<li>Solo/Team (Max 2 participants)
+
+</li>
+<li>No of Winners : 5 Individuals/Team </li>
+</ol>
+</div>

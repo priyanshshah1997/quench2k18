@@ -1,0 +1,33 @@
+<div id="scroll" style="height:300px; overflow-y:scroll;" align="left">
+<p>
+Debug the errors from the given code, re-program it and interface the component with Arduino.
+</p>
+<br>
+<h4>General Rules</h4><br>
+<ol type="disc" align="left">
+1. Team must carry a Laptop with Arduino IDE installed<br>
+2. Basic Knowledge of Arduino is required.<br>
+3. No books are allowed in the competition hall.<br>
+4. If a team is found cheating, they will be immediately eliminated<br>
+
+
+</ol>
+<h4>Rounds</h4>
+<ol>
+<h4>Rounds:</h4>
+<br><h4>Round 1:  Decode</h4>
+1. Participants will have to debug the errors from the given codes and programs and then correct the entire code and compile it.<br>
+2. Team which will complete the task in given time will proceed to round 2.<br>
+
+<h4>Round 2: Interface<h4>
+1. Participants will have to interface the given components with Arduino.
+<br>
+
+</ol>
+<br>
+<h4>Team Specificcation</h4>
+<ol type="disc" align="left">
+<li>Solo or Team (max 2 participants)
+</li>
+</ol>
+</div>

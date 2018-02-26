@@ -1,0 +1,29 @@
+﻿<div id="scroll" style="height:300px; overflow-y:scroll;" align="left">
+<p>
+Wanna she who your real friends are..? Screw up and see who’s still there. This is a fun quiz
+and fun activity based on that participant’s compatibility will be checked.
+</p>
+<br>
+<h4>General Rules</h4><br>
+<ol type="disc" align="left">
+1. Internal communication while quiz is not allowed.<br>
+2. Any signs via face or eyes by team member are prohibited.<br>
+3. Team is requested to cooperate with coordinators and faculty mentor.<br>
+4. Participation fee is Rs. 50/Member.<br> 
+</ol>
+<br>
+<h4>Rounds</h4>
+<ol align="left">
+It will consist of 2 rounds.<br>
+1. The first round will contain quiz simple and easy question about his/her friend and winning
+10 teams will qualify for finals.<br>
+2. This will contains quiz with the question which are very rare and the answers are only known
+by the true friend of his/her and team with correct answer will win.<br> 
+</ol>
+<h4>Team Specificcation</h4>
+<ol type="disc" align="left">
+<li>Team Size:Team(2 Size)
+</li>
+<li>No of Winners : Team </li>
+</ol>
+</div>

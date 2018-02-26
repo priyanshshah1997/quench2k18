@@ -1,0 +1,41 @@
+﻿<div id="scroll" style="height:300px; overflow-y:scroll;" align="left">
+<p>
+So guys are you ready to show how strong you are at logic. Come and showcase your high maths skill
+over this event and win the prize.
+</p>
+<br>
+<h4>General Rules</h4><br>
+<ol type="disc" align="left">
+1. If any of the board is being damaged by participant intentionally than he/she will
+be disqualified.<br>
+2. No external help will be permitted.<br>
+3. Use of pen and paper is not permitted to give the answer.<br>
+4. Rule of DMAS ( Division, Multiplication, Addition, and Subtraction ) is not
+applicable to calculate the answer in the first round.<br>
+5. If the participant is found damaging the board or any of the blocks then he/she
+will be disqualified.<br>
+6. For healthy and successful completion of an event, coordinators have right to
+change the rules and regulations on the spot. Any argument against it won't be
+entertained.<br>
+</ol>
+<br>
+<h4>Rounds</h4>
+<ol align="left">
+It will consist of three rounds.<br>
+1. In this round a question will be given to participants and participant has to get the correct
+answer by placing the correct math operator.<br>
+2. It’s all about logic here and consists of two games.<br>
+a. Unblock Me: In this round each participant has to unblock the given block by moving
+the block horizontally or vertically.<br>
+b. Sokoban: In this participant has to move the given block in its mark position on the
+given board.<br>
+3. Sudoku: In this round the participant has to solve the given Sudoku puzzle in given amount of
+time.<br>
+</ol>
+<h4>Team Specificcation</h4>
+<ol type="disc" align="left">
+<li>Team Size:Solo
+</li>
+<li>No of Winners : Solo </li>
+</ol>
+</div>

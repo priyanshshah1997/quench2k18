@@ -1,0 +1,29 @@
+<div id="scroll" style="height:300px; overflow-y:scroll;" align="left">
+<p>
+Show how good are you at selling a product or an ad making? Showcase your talent at Mad-Ads event take attractive prizes at home. 	
+</p>
+<br>
+<h4>General Rules</h4><br>
+<ol type="disc" align="left">
+1. Having technology background will be add-on for the participants.<br>
+2. Different form of expression like short skit, jingles, slogans, banners or any other innovative form can be incorporated (care should be taken that they are not offensive or vulgar).<br>
+3. Jingles or Tag line can be on any language but the overall advertisement must be in English language only.<br> 
+4. Team is requested to follow coordinators and faculty mentor without argument.<br>
+5. Participation certificate will be given to every participant.<br>
+6. Participation fee is Rs.50/Member<br> 
+</ol>
+<br>
+<h4>Rounds</h4>
+<ol align="left">
+Competition consists of two rounds: - 
+<br>1. Elimination round: Teams have to make a new product name, Punch lines and idea on how to advertise a product or brand given to them. 
+<br>2. Final Round: Selected team will have to prepare a TV AD (with jingle) on InnovativeProduct/Topic (which should not be existed). 
+<br>Each Team will be given 10 Minutes for Preparation and 3Minutes for presentation. Participants need to record the video of the advertisement.
+</ol>
+<h4>Team Specificcation</h4>
+<ol type="disc" align="left">
+<li>Team Size:Team(3-5 Participants) 
+</li>
+<li>No of Winners : Team </li>
+</ol>
+</div>

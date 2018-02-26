@@ -1,0 +1,28 @@
+<div id="scroll" style="height:300px; overflow-y:scroll;" align="left">
+<p>
+Are you a professional photographer and want to show your skills? Then Snap out loud event is for you show how good you are at photography.  
+</p>
+<br>
+<h4>General Rules</h4><br>
+<ol type="disc" align="left">
+1. Photo editing is not allowed any team doing it is captured then it will be disqualified.<br>
+2. The team has to follow the coordinators and faculties no argument should be done.<br>
+3. Winners will be rewarded with attractive prizes.<br>
+4. Participation certificate will be given to every participant.<br>
+5. Participation fee is Rs. 50/Member. 
+</ol>
+<br>
+<h4>Rounds</h4>
+<ol align="left">
+<li>Participants will capture snaps of various events taking place in TALAASH. Try to capture the festive mood, fun or the enthusiasm & anxiety among participants.</li> 
+<li>Use DSLR or Digital camera only. </li>
+<li>Submission of photos should be on each day of event at evening.</li>
+<li>Give the picture your name and submit it to the Snap out loud event volunteer at the hospitality desk.</li> 
+</ol>
+<h4>Team Specificcation</h4>
+<ol type="disc" align="left">
+<li>Team Size:solo/duo 
+</li>
+<li>No of Winners :  Solo/Duo Team </li>
+</ol>
+</div>

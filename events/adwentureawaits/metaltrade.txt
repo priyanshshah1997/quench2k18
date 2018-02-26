@@ -1,0 +1,30 @@
+<div id="scroll" style="height:300px; overflow-y:scroll;" align="left">
+<p>
+Metal Bazaar is the virtual money game. Every team have same amount of virtual money. During Metal Bazaar team can buy, sell, store Metals etc market phenomenon involve. Every days  price increase and decrease by some factor. And factor indicate by hint which provided during market opening.
+</p>
+<br>
+<h4>General Rules</h4><br>
+<ol type="disc" align="left">
+<p>1. Inter team communication while quiz is not allowed.</p><br>
+<p>2. Mobile can not used during trading . mobile can use only for calculation.</p><br>
+<p>3. During trading wrong calculation in Trading sheet team can be disqualified.</p><br>
+<p>4. Team is requested to cooperate with coordinators and faculty mentor.</p><br>
+<p>5. participation fee is Rs. 50/Team.</p><br>
+
+</ol>
+<br>
+<h4>Rounds</h4>
+<ol align="left">
+<p>It will consist of total 3 rounds.
+<p>1.First round is “final week”(Round name). Which in two phases final week A and final week B.in each final week 15 team can play for Semi final. And maximum profit making top 5 teams from every final week will go to semi final.</p><br>
+<p>2.Second round is Semi final.in this round different or same amount of virtual money provided to every team and same procedure as a final week. Maximum profit making Top 5 teams can selects and will go for Grand final round.</p><br>
+<p>3.In Grand final every 5 team can trading by virtual money and maximum profit making team consider as a winner. Top 3 announce as a first, second and third winner.</p><br>
+
+</ol>
+<h4>Team Specificcation</h4>
+<ol type="disc" align="left">
+<li>Team Size:Team (Max 2 Members)
+</li>
+<li>No of Winners :  1 Team </li>
+</ol>
+</div>

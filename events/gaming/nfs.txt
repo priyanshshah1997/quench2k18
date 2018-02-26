@@ -1,0 +1,33 @@
+<div id="scroll" style="height:300px; overflow-y:scroll;" align="left">
+<p>
+NFS is racing video game. All instalments of the series consist of racing cars on various
+tracks, with several titles including police pursuits in races
+
+</p>
+<br>
+<h4>General Rules</h4><br>
+<ol type="disc" align="left">
+1. Use of cheat code is prohibited and will lead its team to direct disqualification.<br>
+2. Students can bring their own mouse if want.<br>
+3. Also no earphones will be provided from college and participants are allowed to
+bring their own earphones.<br>
+4. The team has to follow the coordinators and faculties no argument should be
+done.<br>
+5. Winners will be rewarded with attractive prizes.<br>
+6. Participation certificate will be given to every participant.<br>
+7. Participation fee is Rs. 50/Member.<br>
+ 
+</ol>
+<br>
+<h4>Rounds</h4>
+<ol align="left">
+
+<br>No. of rounds will be decided on the basis of number of team registration to event. 
+</ol>
+<h4>Team Specificcation</h4>
+<ol type="disc" align="left">
+<li>Team Size:Solo
+</li>
+<li>No of Winners : Solo </li>
+</ol>
+</div>

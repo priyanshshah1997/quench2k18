@@ -1,0 +1,31 @@
+﻿<div id="scroll" style="height:300px; overflow-y:scroll;" align="left">
+<p>
+How strong is your biomedical knowledge? Let’s check it out here in BioNick Name quiz for Bio
+Medical Students.
+</p>
+<br>
+<h4>General Rules</h4><br>
+<ol type="disc" align="left">
+1. Use of Internet is prohibited and will lead its team to disqualification.<br>
+2. Breaking game rules is not allowed.<br>
+3. Team is requested to follow coordinators and faculty mentor without argument.<br>
+4. Winners will be rewarded with attractive prizes.<br>
+5. Participation certificate will be given to every participant.<br>
+6. Participation fee is Rs. 50/Member.<br>
+ 
+</ol>
+<br>
+<h4>Rounds</h4>
+<ol align="left">
+It will consist of two rounds.<br>
+1. It is a quiz round with simple question. 5 teams will be selected for final round.<br>
+2. This 5 team will compete in another quiz round which contains difficult question and best will
+win.<br>
+</ol>
+<h4>Team Specificcation</h4>
+<ol type="disc" align="left">
+<li>Team Size:Team(3-5 participants)
+</li>
+<li>No of Winners : Team </li>
+</ol>
+</div>

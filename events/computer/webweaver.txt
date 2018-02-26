@@ -1,0 +1,39 @@
+﻿<div id="scroll" style="height:300px; overflow-y:scroll;" align="left">
+<p>“ A Mint of Creativity. ”<br>
+</p>
+<br>
+<h4>General Rules</h4><br>
+<ol type="disc" align="left">
+1. Software to be used: Notepad, Notepad++, DreamWeaver (Ver: MX 2004 or Higher).<br>
+2. You will not get an Internet facility in this event.<br>
+3. Use of external drives and hard copies is not allowed.<br>
+4. Theme for design will be provided at the time of competition.<br>
+5. Any number of individuals from one college.<br>
+6. Existing templates cannot be used.<br>
+</ol>
+<br>
+<h4>Team Specificcation</h4>
+<ol type="disc" align="left">
+<li>3 members per team are mandatory
+</li>
+</ol>
+
+<h4>Rounds:</h4>
+<br>
+<ol>
+1. In this round the Participants will be given MCQs based on the concepts of web
+designing. MCQs of the type such as “Fill in the Blanks”, “Joining Tables”, “True or
+False” will be there. 30% of the participants will be eliminated and the rest will be
+qualified for next round.<br>
+2. In this round, you will be provided with one web page and participants have to create
+same web page which is given to them .Marks will be allocated depending on the
+participants performance and based on that they will be qualified for next round.<br>
+3. Create a responsive OnePage web blog.<br>
+4. The participant will be given a definition and they will to design a website. In the final
+round winners will be selected as per their Performance.<br><br>
+Rules are subject to last minute change. Contact corresponding coordinator(s) for further
+inquiries. Final decision lies in hands of coordinators and judges. Participants have to abide the
+decision in all cases.
+
+</ol>
+</div>

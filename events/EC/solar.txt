@@ -1,0 +1,24 @@
+<div id="scroll" style="height:300px; overflow-y:scroll;" align="left">
+<p>
+To Demonstrate the actual model based on solar panel solutions for social use.
+</p>
+<br>
+<h4>General Rules</h4><br>
+<ol type="disc" align="left">
+1. Participant has to work with solar panel-based solutions for social use.<br>
+2. It will be a group event. Maximum number of participant per group is 4.<br>
+3. Participants need to come with actual model based on Solar and need to demonstrate in open air.<br>
+4. Participants have to provide requirement list in advance.<br>
+5. Laptop (PC) will not be provided.<br>
+6. Any software will not be provided. If there is requirement of particular software then participant need to bring their laptop with required software installed in the laptop.<br>
+7. All the participants must remain present during the event time.<br>
+8. Participants needs to explain their project through the circuit/ block diagram along with its cost effectiveness, novelty and usefulness to the society.<br>
+</ol>
+<br>
+<h4>Team Specificcation</h4>
+<ol type="disc" align="left">
+<li>Team Size:Solo or Team (min 2 participants)
+</li>
+<li>No of Winners : 5 Individuals/Team </li>
+</ol>
+</div>

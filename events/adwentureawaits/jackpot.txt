@@ -1,0 +1,35 @@
+<div id="scroll" style="height:300px; overflow-y:scroll;" align="left">
+<p>
+Show the treasure hunters wanna show your Spy skills? Then Adventure awaits
+welcomes you come treasure hunt and took the prize.
+</p>
+<br>
+<h4>General Rules</h4><br>
+<ol type="disc" align="left">
+1. Per College 5 Teams is allowed and seat will be confirmed on first come first
+serve basis.<br>
+2. Misbehave with clue holders is not allowed.<br>
+3. The team has to follow the coordinators and faculties no argument should be
+done.<br>
+4. Winners will be rewarded with attractive prizes.<br>
+5. Participation certificate will be given to every participant.<br>
+6. Participation fee is Rs. 50/Member.<br>
+</ol>
+<br>
+<h4>Rounds</h4>
+<ol align="left">
+<li>Teams will be divided into groups and will start their journey from the starting point
+and hunt for the given clues and break the code/puzzle at last.</li>
+<li>A map/blueprint will be provided to each team.</li>
+<li>At each checkpoint you will be provided with the clue to find the next check-point
+All participant teams will have to take their selfie with their respective group and post
+it on Facebook page. (Link will be provided).</li>
+
+</ol>
+<h4>Team Specificcation</h4>
+<ol type="disc" align="left">
+<li>Team Size:Team (Minimum 4-7 participants) 
+</li>
+<li>No of Winners :  1 Team </li>
+</ol>
+</div>

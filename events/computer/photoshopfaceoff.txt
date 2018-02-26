@@ -1,0 +1,24 @@
+<div id="scroll" style="height:300px; overflow-y:scroll;" align="left">
+<p>In this event, a team will have to design a creative newspaper of their own, with their unique logo and front page with the help of the graphics editor of Photoshop.
+
+</p>
+<br>
+<h4>General Rules</h4><br>
+<ol type="disc" align="left">
+<li>Maximum time to be taken: 2 hrs.</li>
+<li>The themes will be provided on the spot</li>
+<li>No material will be provided</li>
+<li>Computer facility and preinstalled software will be provided</li>
+<liSoftware like Adobe Photoshop Version 7.O or Coreldraw are allowable</li>
+<li>Photo to be attached, should be clicked on the spot or should be created by the teams,
+during the time duration of 2 hrs.</li>
+<li>Team has to design front page of topic alloted with their unique logo and title of their
+Topic</li>
+</ol>
+<br>
+<h4>Team Specificcation</h4>
+<ol type="disc" align="left">
+<li>3 members per team are mandatory
+</li>
+</ol>
+</div>

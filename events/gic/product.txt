@@ -1,0 +1,43 @@
+<div id="scroll" style="height:300px; overflow-y:scroll;" align="left">
+<h4>Event Description</h4>
+<p>
+This event will give a clear idea of what the project/product will be, usually expressed in statements of work, Proof of concept, Prototypes, functional product specs, or their equivalents. Based on this clear idea, quality management can objectively determine if the productwas "realized" and how efficient the process was. 
+</p>
+<br>
+<h4>Rules And regulations:</h4><br>
+<p>
+The product/Service must be unique (or solves the problem uniquely)and should have a scalable market.<br>
+Repetition of the product or idea should not be entertained.<br>
+One team/participant can present more than one products.<br>
+The project submitting here must not be presented anywhere till Techfest result declared.<br>
+Best products will be rewarded by financial assistance (or Seed Fund up to Rs. 2 Lakh along with IP support up to Rs. 25K)<br>
+ Best Projects/Products will be incubated at GTU Incubator (Ahmedabad/Rajkot/Surat) for further support like Co-working Space, Mentoring support, R&D Support, Legal documentation Support.<br>
+</p>
+<h4>Level Description</h4>
+<p><br><br>
+<h4>Round 1:</h4><br><br><p>Participants have to define the need to establish processes and documents, and to prove resources specific to the product. Quality objectives and requirements for the product are to be presented. Project must be supported by following points clearly.<br>Market research along with Market Size.<br>Problem Statement with Abstract.<br>Expert opinion.<br>Customer Validation/Survey.<br>Idea Validation (conclusion of Expert opinion and Customer validation)<br>
+ Existing Competitors if any.<br>
+STP (Segmentation, Target Market and Positioning) if identified already ? Raw Business Plan<br>
+Product design proposed (if applicable)<br>
+Overall Project Cost (Prototype cost and Final product realization cost)<br>
+ </p><br><br>
+<h4>Round 2</h4><br>
+<p>5 min pitch of the product</p>
+<p>Evaluation Criteria: <br>Right Problem is identified and right solution focused would be considered.<br>The Products will be judged based on novelty, uniqueness, technical integration and impact to the society.<br>Team talent/Skill set to solve the problem would be considered.<br>Knowledge of the sector/market would be considered.<br>Business model presented.<br>Decision made by the event head will be final and acceptable in any cases.<br> </p>
+<h4>website for refference</h4>
+<p><a href=" https://worldwide.espacenet.com">Escape Net</a></p><br>
+<p><a href="http://www.wipo.int/patentscope/en ">Patents Case by Wipo</a></p><br>
+<p><a href="http://www.ipindia.nic.in">India Patent</a></p><br>
+<h4>perks of the Event:</h4>
+<p>In depth understanding on prior art search <br>
+Financial support for deserving projects/innovations<br>
+Mentorship support<br>
+Incubation support or support for working in the industry specific labs across Gujarat.</p> <br>
+<h4>Conclusion</h4><br>
+<p>Through carrying out Patent clinic at 4 different zones in GTU, the best innovative idea that are patent ready, but due to reasons like lack of resources, funds or knowledge, they would be getting a precious platform, and currently the conversion ratio towards actual Patents(granted)  is very less, so that problem also would be solved through the Patent Clinic, because after getting sensitised upon prior art search and drafting they can make their patent reports strong.. The goal is to identify the top 100 projects/ solutions who would be provides supports in all ways possible, could be financial, or maybe if mentorship is the key requirement. 
+</p>
+<h4>No Of Partipants</h4>
+<p>Maximum 4 and minimum 2 participants per team </p>
+<h4>No. of Winners</h4>
+<p>5 Teams</p>
+</div>
